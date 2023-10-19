@@ -61,7 +61,7 @@ layout: center
 - In high level languages like JavaScript, memory management is done automatically by the browser.
 - Browser allocates memory for variables, objects, and functions and frees memory when they are not used anymore.
 - Instead of `pointers`, it uses `references` to access memory.
-- `References` are differs from `pointers` in that they are not used to access memory directly.
+- `References` are different from `pointers` in that they are not used to access memory directly.
 - It gives less control to the developer but it is also less error prone.
 - The system that frees memory is called `garbage collector`.
 
