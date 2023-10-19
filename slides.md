@@ -21,8 +21,8 @@ image: './images/transistors-city.jpeg'
 - Browser uses a garbage collector to free memory. Garbage collector is a part of the memory management system.
 
 ---
-
-## layout: center
+layout: center
+---
 
 # Memory Management in JavaScript
 
