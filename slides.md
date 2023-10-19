@@ -93,11 +93,7 @@ layout: center
 - When a function is called, it is added to the top of the call stack.
 - When a function returns, it is removed from the top of the call stack.
 
----
-layout: image
----
-
-<img src="images/call-stack.gif" alt='call-stack' class="w-full h-full" />
+https://www.jsv9000.app/
 
 ---
 
@@ -161,6 +157,6 @@ image: './images/question.jpeg'
 
 ---
 layout: image
+image: './images/wall-e.jpeg'
+class: 'm-auto absolute max-w-150'
 ---
-
-<img src="images/wall-e.jpeg" alt='call-stack' class="h-full m-auto" />
